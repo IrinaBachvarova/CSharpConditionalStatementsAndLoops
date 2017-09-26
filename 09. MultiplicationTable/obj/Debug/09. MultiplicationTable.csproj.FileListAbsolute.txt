@@ -1,0 +1,5 @@
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\09. MultiplicationTable\bin\Debug\_09.MultiplicationTable.exe.config
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\09. MultiplicationTable\bin\Debug\_09.MultiplicationTable.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\09. MultiplicationTable\bin\Debug\_09.MultiplicationTable.pdb
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\09. MultiplicationTable\obj\Debug\_09.MultiplicationTable.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\09. MultiplicationTable\obj\Debug\_09.MultiplicationTable.pdb

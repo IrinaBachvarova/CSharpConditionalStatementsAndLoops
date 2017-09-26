@@ -1,0 +1,5 @@
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\08. SumOfOddNumbers\bin\Debug\_08.SumOfOddNumbers.exe.config
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\08. SumOfOddNumbers\bin\Debug\_08.SumOfOddNumbers.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\08. SumOfOddNumbers\bin\Debug\_08.SumOfOddNumbers.pdb
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\08. SumOfOddNumbers\obj\Debug\_08.SumOfOddNumbers.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\08. SumOfOddNumbers\obj\Debug\_08.SumOfOddNumbers.pdb

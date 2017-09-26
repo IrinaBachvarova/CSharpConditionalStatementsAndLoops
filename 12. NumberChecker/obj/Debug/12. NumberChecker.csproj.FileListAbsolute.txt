@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\12. NumberChecker\bin\Debug\_12.NumberChecker.exe.config
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\12. NumberChecker\bin\Debug\_12.NumberChecker.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\12. NumberChecker\bin\Debug\_12.NumberChecker.pdb
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\12. NumberChecker\obj\Debug\_12.NumberChecker.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\12. NumberChecker\obj\Debug\_12.NumberChecker.pdb
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\12. NumberChecker\obj\Debug\12. NumberChecker.csprojResolveAssemblyReference.cache

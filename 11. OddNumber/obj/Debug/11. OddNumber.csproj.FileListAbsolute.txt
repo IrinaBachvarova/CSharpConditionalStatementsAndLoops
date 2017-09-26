@@ -1,0 +1,5 @@
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\11. OddNumber\bin\Debug\_11.OddNumber.exe.config
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\11. OddNumber\bin\Debug\_11.OddNumber.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\11. OddNumber\bin\Debug\_11.OddNumber.pdb
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\11. OddNumber\obj\Debug\_11.OddNumber.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\11. OddNumber\obj\Debug\_11.OddNumber.pdb

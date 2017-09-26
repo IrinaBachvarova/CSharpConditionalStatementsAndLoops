@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\06. TheatrePromotion\bin\Debug\_06.TheatrePromotion.exe.config
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\06. TheatrePromotion\obj\Debug\06. TheatrePromotion.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\06. TheatrePromotion\bin\Debug\_06.TheatrePromotion.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\06. TheatrePromotion\bin\Debug\_06.TheatrePromotion.pdb
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\06. TheatrePromotion\obj\Debug\_06.TheatrePromotion.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\06. TheatrePromotion\obj\Debug\_06.TheatrePromotion.pdb

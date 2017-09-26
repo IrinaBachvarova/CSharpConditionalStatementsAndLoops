@@ -1,0 +1,5 @@
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\04. MonthPrinter\bin\Debug\_04.MonthPrinter.exe.config
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\04. MonthPrinter\bin\Debug\_04.MonthPrinter.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\04. MonthPrinter\bin\Debug\_04.MonthPrinter.pdb
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\04. MonthPrinter\obj\Debug\_04.MonthPrinter.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\04. MonthPrinter\obj\Debug\_04.MonthPrinter.pdb

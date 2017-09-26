@@ -1,0 +1,5 @@
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\05. ForeignLanguages\bin\Debug\_05.ForeignLanguages.exe.config
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\05. ForeignLanguages\bin\Debug\_05.ForeignLanguages.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\05. ForeignLanguages\bin\Debug\_05.ForeignLanguages.pdb
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\05. ForeignLanguages\obj\Debug\_05.ForeignLanguages.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\05. ForeignLanguages\obj\Debug\_05.ForeignLanguages.pdb

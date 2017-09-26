@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\03. BackIn30Minutes\bin\Debug\_03.BackIn30Minutes.exe.config
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\03. BackIn30Minutes\bin\Debug\_03.BackIn30Minutes.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\03. BackIn30Minutes\bin\Debug\_03.BackIn30Minutes.pdb
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\03. BackIn30Minutes\obj\Debug\03. BackIn30Minutes.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\03. BackIn30Minutes\obj\Debug\_03.BackIn30Minutes.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\03. BackIn30Minutes\obj\Debug\_03.BackIn30Minutes.pdb

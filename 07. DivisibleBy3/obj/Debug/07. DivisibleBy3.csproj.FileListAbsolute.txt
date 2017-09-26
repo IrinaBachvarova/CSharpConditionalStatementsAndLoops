@@ -1,0 +1,5 @@
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\07. DivisibleBy3\bin\Debug\_07.DivisibleBy3.exe.config
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\07. DivisibleBy3\bin\Debug\_07.DivisibleBy3.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\07. DivisibleBy3\bin\Debug\_07.DivisibleBy3.pdb
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\07. DivisibleBy3\obj\Debug\_07.DivisibleBy3.exe
+D:\SoftUni\Programming Fundamentals\CSharpConditionalStatementsAndLoops\07. DivisibleBy3\obj\Debug\_07.DivisibleBy3.pdb
